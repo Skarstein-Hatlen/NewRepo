@@ -1,2 +1,4 @@
 Hello
 This is just a test for mye school task
+
+And this is added text from GitHub.
